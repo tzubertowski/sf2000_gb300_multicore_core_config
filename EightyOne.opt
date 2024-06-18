@@ -1,0 +1,44 @@
+### [81_fast_load]		:[enabled|disabled]
+### [81_8_16_contents]	:[auto|ROM shadow|RAM|dK'tronics 4K Graphics ROM + 4K RAM]
+### [81_border_size]	:[normal|small|none]
+### [81_highres]		:[auto|none|WRX]
+### [81_chroma_81]		:[auto|disabled|enabled]
+### [81_video_presets]	:[clean|tv|noisy]
+### [81_sound]			:[none|auto|Zon X-81]
+### [81_joypad_left]	:[auto|default|new line|shift|space|.|0|1|2|3|4|5|6|7|8|9|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z]
+### [81_joypad_right]	:[auto|default|new line|shift|space|.|0|1|2|3|4|5|6|7|8|9|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z]
+### [81_joypad_up]		:[auto|default|new line|shift|space|.|0|1|2|3|4|5|6|7|8|9|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z]
+### [81_joypad_down]	:[auto|default|new line|shift|space|.|0|1|2|3|4|5|6|7|8|9|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z]
+### [81_joypad_a]		:[auto|default|new line|shift|space|.|0|1|2|3|4|5|6|7|8|9|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z]
+### [81_joypad_b] 		:[auto|default|new line|shift|space|.|0|1|2|3|4|5|6|7|8|9|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z]
+### [81_joypad_x] 		:[auto|default|new line|shift|space|.|0|1|2|3|4|5|6|7|8|9|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z]
+### [81_joypad_y] 		:[auto|default|new line|shift|space|.|0|1|2|3|4|5|6|7|8|9|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z]
+### [81_joypad_l] 		:[auto|default|new line|shift|space|.|0|1|2|3|4|5|6|7|8|9|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z]
+### [81_joypad_r] 		:[auto|default|new line|shift|space|.|0|1|2|3|4|5|6|7|8|9|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z]
+### [81_joypad_l2]		:[auto|default|new line|shift|space|.|0|1|2|3|4|5|6|7|8|9|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z]
+### [81_joypad_r2]		:[auto|default|new line|shift|space|.|0|1|2|3|4|5|6|7|8|9|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z]
+### [81_joypad_start]		:[auto|default|new line|shift|space|.|0|1|2|3|4|5|6|7|8|9|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z]
+### [81_keybovl_transp]	:[enabled|disabled]
+### [81_key_hold_time]	:[100|300|500|1000]
+81_fast_load = "enabled"
+81_8_16_contents = "RAM"
+81_border_size = "small"
+81_highres = "none"
+81_chroma_81 = "disabled"
+81_video_presets = "clean"
+81_sound = "auto"
+81_joypad_left = "o"
+81_joypad_right = "p"
+81_joypad_up = "q"
+81_joypad_down = "a"
+81_joypad_a = "new line"
+81_joypad_b = "new line"
+81_joypad_x = "new line"
+81_joypad_y = "new line"
+81_joypad_l = "space"
+81_joypad_r = "space"
+81_joypad_l2 = "space"
+81_joypad_r2 = "space"
+81_joypad_start= "auto"
+81_keybovl_transp = "enabled"
+81_key_hold_time = "1000"
