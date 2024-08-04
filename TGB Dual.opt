@@ -1,2 +1,10 @@
-### [tgbdual_gblink_enable]  :[disabled]      :[disabled|enabled]
+### [tgbdual_gblink_enable]    :[disabled]     :[disabled|enabled]
+### [tgbdual_screen_placement] :[left-right]   :[left-right|top-down]
+### [tgbdual_switch_screens]   :[normal]       :[normal|switched]
+### [tgbdual_single_screen_mp] :[both players] :[both players|player 1 only|player 2 only]
+### [tgbdual_audio_output]     :[Game Boy #1]  :[Game Boy #1|Game Boy #2]
 tgbdual_gblink_enable = "disabled"
+tgbdual_screen_placement = "left-right"
+tgbdual_switch_screens = "normal"
+tgbdual_single_screen_mp = "both players"
+tgbdual_audio_output = "Game Boy #1"
