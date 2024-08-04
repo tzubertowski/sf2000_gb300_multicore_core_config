@@ -1,0 +1,24 @@
+### [geolith_system_type] :[aes] :[aes|mvs|uni]
+### [geolith_region]      :[us]  :[us|jp|as|eu]
+### [geolith_settingmode] :[off] :[off|on]
+### [geolith_4player]     :[off] :[off|on]
+### [geolith_freeplay]    :[off] :[off|on]
+### [geolith_overscan_t]  :[8]   :[16|12|8|4|0]
+### [geolith_overscan_b]  :[8]   :[16|12|8|4|0]
+### [geolith_overscan_l]  :[8]   :[16|12|8|4|0]
+### [geolith_overscan_r]  :[8]   :[16|12|8|4|0]
+### [geolith_aspect]      :[1:1] :[1:1|45:44|4:3]
+### [geolith_sprlimit]    :[96]  :[96|192|288|381]
+### [geolith_oc]          :[off] :[off|on]
+geolith_system_type = "aes"
+geolith_region = "us"
+geolith_settingmode = "off"
+geolith_4player = "off"
+geolith_freeplay = "off"
+geolith_overscan_t = "0"
+geolith_overscan_b = "0"
+geolith_overscan_l = "0"
+geolith_overscan_r = "0"
+geolith_aspect = "1:1"
+geolith_sprlimit = "96"
+geolith_oc = "off"

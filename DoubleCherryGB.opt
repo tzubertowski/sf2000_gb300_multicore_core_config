@@ -1,0 +1,16 @@
+### [dcgb_emulated_gameboys]        :[1]                :[1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16]
+### [dcgb_power_antenna_use_rumble] :[Strong]           :[Strong|Weak|Off]
+### [dcgb_gblink_enable]            :[disabled]         :[disabled|enabled]
+### [dcgbt_gblink_device]           :[4-player adapter] :[4-player adapter|2x2-player link]
+### [dcgb_screen_placement]         :[left-right]       :[left-right|top-down]
+### [dcgb_number_of_local_screens]  :[1]                :[1|2]
+### [dcgb_single_screen_mp]         :[all players]      :[all players|player 1 only|player 2 only|player 3 only|player 4 only|player 5 only|player 6 only|player 7 only|player 8 only|player 9 only|player 10 only|player 11 only|player 12 only|player 13 only|player 14 only|player 15 only|player 16 only]
+### [dcgb_audio_output]             :[Game Boy #1]      :[Game Boy #1|Game Boy #2|Game Boy #3|Game Boy #4|Game Boy #5|Game Boy #6|Game Boy #7|Game Boy #8|Game Boy #9|Game Boy #10|Game Boy #11|Game Boy #12|Game Boy #13|Game Boy #14|Game Boy #15|Game Boy #16]
+dcgb_emulated_gameboys = "1"
+dcgb_power_antenna_use_rumble = "Strong"
+dcgb_gblink_enable = "disabled"
+dcgbt_gblink_device = "4-player adapter"
+dcgb_screen_placement = "left-right"
+dcgb_number_of_local_screens = "1"
+dcgb_single_screen_mp = "all players"
+dcgb_audio_output = "Game Boy #1"
