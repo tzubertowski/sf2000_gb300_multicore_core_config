@@ -5,6 +5,7 @@
 ### [mame2000-show_gameinfo]       :[disabled] :[disabled|enabled]
 ### [mame2000-skip_disclaimer]     :[enabled]  :[disabled|enabled]
 ### [mame2000-stereo]              :[enabled]  :[disabled|enabled]
+### [mame2000-audio]               :[enabled]  :[disabled|enabled]
 mame2000-frameskip = "auto"
 mame2000-frameskip_interval = "1"
 mame2000-frameskip_threshold = "30"
@@ -12,3 +13,4 @@ mame2000-sample_rate = "11025"
 mame2000-show_gameinfo = "disabled"
 mame2000-skip_disclaimer = "enabled"
 mame2000-stereo = "enabled"
+mame2000-audio = "enabled"
