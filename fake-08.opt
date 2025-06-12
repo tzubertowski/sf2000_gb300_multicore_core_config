@@ -1,2 +1,23 @@
-### [fake08_audio]           :[disabled] :[disabled|enabled]
-fake08_audio = "disabled"
+### [fake08_video_scale] :[1x] :[1x|2x]
+fake08_video_scale = "1x"                  
+### [fake08_crop_h_left] :[0] :[0|4|8|12|16]                            
+fake08_crop_h_left = "0"             
+### [fake08_crop_h_right] :[0] :[0|4|8|12|16]                             
+fake08_crop_h_right = "0"            
+### [fake08_crop_v_top] :[0] :[0|4|8|12|16]                            
+fake08_crop_v_top = "0"              
+### [fake08_crop_v_bottom] :[0] :[0|4|8|12|16]                              
+fake08_crop_v_bottom = "0"
+
+#### Performance Recommendations:                                          
+### - Maximum Performance: fake08_audiochannels = "0"                     
+### - High Performance: fake08_audioquality = "minimal" + fake08_audiochannels = "1"
+### - Balanced: fake08_audioquality = "low" + fake08_audiochannels = "2"            
+### [fake08_frameskip] :[1] :[0|1|2|3|4]                           
+fake08_frameskip = "1"                 
+### [fake08_audiochannels] :[4] :[0|1|2|3|4]                               
+fake08_audiochannels = "3"             
+### [fake08_audioframeskip] :[0] :[0|1|2|3]                           
+fake08_audioframeskip = "0"              
+### [fake08_audioquality] :[high] :[high|medium|low|minimal]                          
+fake08_audioquality = "high"                            
